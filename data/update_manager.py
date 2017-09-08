@@ -135,6 +135,7 @@ class UpdateApp(QtGui.QWidget, Shared):
                 self.be_mode='results'
                 self.url_1 =self.url+'results/'
                 self.url_2 =self.url+'fixtures/'
+                print self.url_1
                 be_urls = [self.url_1,self.url_2]
                 for i in be_urls:
                     self.update_state = 1
@@ -169,9 +170,11 @@ class UpdateApp(QtGui.QWidget, Shared):
                 self.scrape = betradar.Scrape(self.path, self.league)
             else:
                 if self.be_mode == 'results':
+                    print 'BetExpoler results 1'
                     self.scrape = BetExploerer(self.path + self.league,self.be_mode)
                     self.be_mode = 'fixtures'
                 else:
+                    print 'BetExpoler results 2'
                     self.scrape = BetExploerer(self.path + self.league,self.be_mode)
                     self.be_mode = 'results'
         self.update_state = 0
