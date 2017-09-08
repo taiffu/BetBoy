@@ -1578,12 +1578,8 @@ class Database(Shared):
         file_open = reader(open(folder+name))
         for line in file_open:
             date = line[0]
+            print "DATE:" + date
             date = date[0:7]+date[8:]
-            #2017 17:30.09.08
-            #t = time.strptime(date, '%Y %H:%M.%m.%d')
-            #time.strftime('%Y%m%d %H%M%S', t)
-	    #t = time.strptime(date, '%Y.%m.%d')
-            #time.strftime('%Y%m%d', t)
             date_num = float(date)
             fth = line[3]
             fta = line[4]

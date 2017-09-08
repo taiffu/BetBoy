@@ -55,8 +55,8 @@ class BetExploerer():
 
                     print "DATE:" + group[0]
                     date = dateutil.parser.parse(group[0])                    
-                    day = str(date.day) #group[0][0:2]
-                    month = str(date.month) #group[0][3:5]
+                    day = str(date.day).zfill(2)  #group[0][0:2]
+                    month = str(date.month).zfill(2)  #group[0][3:5]
                     year = str(date.year) #group[0][6:]
                     date = year +'.'+month +'.'+ day
                     print "CDATE:" + date
@@ -117,8 +117,8 @@ class BetExploerer():
                     #date 01.34.6789
                     print "DATE:" + group[0]
                     date = dateutil.parser.parse(group[0])
-                    day = str(date.day) #group[0][0:2]
-                    month = str(date.month) #group[0][3:5]
+                    day = str(date.day).zfill(2)  #group[0][0:2]
+                    month = str(date.month).zfill(2)  #group[0][3:5]
                     year = str(date.year) #group[0][6:]
                     date = year +'.'+month +'.'+ day
                     print "CDATE:" + date
