@@ -16,6 +16,8 @@ e-mail: jacek87markowski@gmail.com
 
 author: Jacek Markowski
 
+Modified: 2017 taiffu <sami@tabloiti.com>
+
 ##Requirements:
 
 * Windows:

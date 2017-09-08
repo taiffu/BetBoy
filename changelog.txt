@@ -1,3 +1,6 @@
+0.6.5 08.09.2017
+Modified to parser for this year, added new support library for date parese
+sudo pip install python-dateutil
 0.6.4 10.02.2014
 -fixed export problem on windows 7 64 bit
 0.6.3 09.02.2014
