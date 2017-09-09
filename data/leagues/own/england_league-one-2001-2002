@@ -1,0 +1,261 @@
+2001.11.08,QPR,Stoke City,1,0,2.29,3.25,3.00
+2001.11.08,Port Vale,Notts County,4,2,2.20,3.20,3.10
+2001.11.08,Huddersfield,Bournemouth,1,0,1.68,3.60,5.00
+2001.11.08,Cardiff,Wycombe,1,0,1.95,3.40,3.65
+2001.08.18,Wycombe,Wrexham,5,2,2.04,3.30,3.50
+2001.08.18,Stoke City,Northampton,2,0,1.63,3.60,5.65
+2001.08.18,Reading,Huddersfield,1,0,2.04,2.90,3.60
+2001.08.18,Notts County,Cambridge Utd,2,1,1.80,1.00,1.85
+2001.08.18,Colchester,Tranmere,2,1,2.40,3.10,2.65
+2001.08.18,Bristol City,Swindon,3,1,1.68,3.70,4.50
+2001.08.18,Brighton,Wigan,2,1,2.29,1.00,1.55
+2001.08.18,Brentford,Port Vale,2,0,2.35,3.10,3.60
+2001.08.25,Port Vale,Peterborough,4,1,1.84,3.40,4.00
+2001.08.25,Huddersfield,Bury,2,0,1.68,3.60,4.80
+2001.08.27,Wycombe,QPR,1,0,2.50,3.00,2.50
+2001.08.27,Colchester,Port Vale,2,0,2.20,3.20,2.50
+2001.08.27,Brighton,Blackpool,4,0,1.84,3.40,4.00
+2001.08.27,Brentford,Cambridge Utd,2,1,1.74,3.50,4.50
+2001.08.28,Oldham,Northampton,4,2,1.84,3.40,4.00
+2001.08.31,Northampton,Brighton,2,0,3.00,3.20,2.15
+2001.01.09,Swindon,Colchester,1,0,2.40,3.10,3.00
+2001.02.09,Huddersfield,Wycombe,2,1,1.74,3.50,4.59
+2001.08.09,Peterborough,Cambridge Utd,1,0,1.95,3.30,3.75
+2001.08.09,Oldham,Blackpool,2,1,1.89,3.30,4.09
+2001.08.09,Colchester,Northampton,3,1,1.74,3.50,4.50
+2001.08.09,Brighton,QPR,2,1,2.29,3.20,2.90
+2001.08.09,Brentford,Tranmere,4,0,2.00,3.30,3.55
+2001.11.09,Wrexham,Bury,1,0,1.95,3.30,3.50
+2001.09.15,Wycombe,Wigan,1,0,2.35,3.15,3.00
+2001.09.15,Stoke City,Reading,2,0,2.50,3.00,2.70
+2001.09.15,QPR,Port Vale,4,1,1.84,3.35,4.30
+2001.09.15,Oldham,Peterborough,2,0,1.89,3.30,4.09
+2001.09.15,Cambridge Utd,Cardiff,2,1,2.95,3.15,2.35
+2001.09.15,Bristol City,Colchester,3,1,1.84,3.35,4.30
+2001.09.15,Bournemouth,Bury,3,2,2.04,3.20,3.60
+2001.09.18,Wigan,Huddersfield,1,0,2.45,3.10,2.85
+2001.09.18,Tranmere,Notts County,4,2,2.20,3.15,3.30
+2001.09.18,Reading,Cambridge Utd,1,0,1.47,4.00,7.00
+2001.09.18,Peterborough,Bournemouth,6,0,2.10,3.20,3.35
+2001.09.18,Colchester,Oldham,2,1,2.10,3.20,3.35
+2001.09.18,Chesterfield,Wrexham,3,2,2.20,3.15,3.30
+2001.09.18,Cardiff,Northampton,2,0,1.53,3.80,6.50
+2001.09.18,Brighton,Stoke City,1,0,2.10,3.20,3.35
+2001.09.21,Tranmere,Wrexham,5,0,1.89,3.30,3.50
+2001.09.22,Reading,Wycombe,2,0,1.74,3.50,4.50
+2001.09.22,Peterborough,Bristol City,4,1,2.50,3.10,2.50
+2001.09.22,Chesterfield,Swindon,4,0,2.35,3.20,3.00
+2001.09.22,Brighton,Bournemouth,2,1,1.63,3.60,5.00
+2001.09.25,Swindon,Brentford,2,0,2.60,3.00,2.60
+2001.09.25,QPR,Cardiff,2,1,2.10,3.20,3.35
+2001.09.25,Oldham,Bury,4,0,1.45,4.00,7.00
+2001.09.25,Notts County,Peterborough,1,0,1.95,3.30,3.55
+2001.09.25,Bristol City,Tranmere,2,0,1.75,3.50,4.50
+2001.09.25,Bournemouth,Reading,1,0,3.50,3.25,2.00
+2001.09.26,Stoke City,Colchester,3,0,1.79,3.50,4.50
+2001.09.29,Wycombe,Port Vale,3,1,1.79,3.50,4.50
+2001.09.29,Stoke City,Bournemouth,2,0,1.68,3.60,5.00
+2001.09.29,Oldham,Notts County,4,1,2.04,3.20,3.30
+2001.09.29,Huddersfield,Bristol City,1,0,2.15,3.15,3.00
+2001.09.29,Cambridge Utd,QPR,2,1,2.95,3.15,2.35
+2001.09.29,Brentford,Colchester,4,1,1.95,3.30,3.50
+2001.09.29,Blackpool,Wigan,3,1,2.29,3.15,2.95
+2001.04.10,Tranmere,Blackpool,4,0,2.00,3.30,3.50
+2001.05.10,Port Vale,Cambridge Utd,5,0,2.00,3.30,3.50
+2001.05.10,Colchester,Reading,2,0,2.70,3.00,2.45
+2001.05.10,Bristol City,Chesterfield,3,0,1.74,3.50,4.59
+2001.05.10,Bournemouth,Oldham,3,2,2.80,3.10,2.40
+2001.07.10,QPR,Huddersfield,3,2,2.15,3.20,3.35
+2001.07.10,Peterborough,Northampton,2,0,1.68,3.60,5.00
+2001.09.10,Bournemouth,Wigan,2,0,2.25,3.15,3.00
+2001.10.13,Wrexham,QPR,1,0,2.70,3.15,2.35
+2001.10.13,Stoke City,Notts County,1,0,1.84,3.40,4.00
+2001.10.13,Northampton,Tranmere,4,1,2.60,3.15,2.40
+2001.10.13,Cambridge Utd,Bury,3,1,1.84,3.40,3.60
+2001.10.13,Brentford,Peterborough,2,1,1.84,3.40,3.60
+2001.10.13,Blackpool,Colchester,2,1,2.10,3.20,3.10
+2001.10.20,Tranmere,Huddersfield,1,0,2.15,3.20,3.15
+2001.10.20,Peterborough,Blackpool,3,2,1.95,3.30,3.50
+2001.10.20,Colchester,Cambridge Utd,3,1,1.74,3.50,4.50
+2001.10.20,Bury,Chesterfield,2,1,2.50,3.10,2.50
+2001.10.20,Brighton,Oldham,3,0,1.95,3.20,4.00
+2001.10.23,Peterborough,QPR,4,1,2.10,3.20,3.40
+2001.10.23,Bristol City,Bournemouth,1,0,1.63,3.60,5.00
+2001.10.23,Brentford,Bury,5,1,1.42,4.00,7.50
+2001.10.24,Swindon,Cambridge Utd,2,0,1.68,3.60,4.70
+2001.10.27,Stoke City,Bristol City,1,0,2.15,3.15,3.35
+2001.10.27,Huddersfield,Wrexham,5,1,1.63,3.40,5.00
+2001.10.27,Bury,Peterborough,2,0,3.25,3.20,2.35
+2001.10.27,Brighton,Colchester,1,0,1.74,3.50,4.50
+2001.10.27,Bournemouth,Notts County,4,2,2.10,3.20,3.40
+2001.10.27,Blackpool,Chesterfield,1,0,1.84,3.30,3.80
+2001.03.11,Port Vale,Bury,1,0,1.70,3.50,4.50
+2001.03.11,Chesterfield,Cambridge Utd,2,0,2.01,3.23,3.37
+2001.03.11,Brentford,Blackpool,2,0,1.59,3.72,5.17
+2001.06.11,Reading,Wrexham,2,0,1.63,3.57,4.93
+2001.07.11,Bury,Cardiff,3,0,3.23,3.20,2.08
+2001.10.11,Wycombe,Peterborough,3,0,2.01,3.17,3.50
+2001.10.11,Stoke City,Brentford,3,2,2.15,3.13,3.27
+2001.10.11,Reading,Bristol City,3,2,2.07,3.17,3.40
+2001.10.11,Cardiff,Chesterfield,2,1,1.66,3.53,4.63
+2001.10.11,Brighton,Port Vale,1,0,1.62,3.60,5.03
+2001.10.11,Bournemouth,Wrexham,3,0,1.73,3.43,4.43
+2001.10.11,Blackpool,Swindon,1,0,2.01,3.22,3.48
+2001.11.11,Bury,Northampton,2,1,2.33,3.08,2.98
+2001.11.13,Wigan,Stoke City,6,1,3.17,3.17,2.18
+2001.11.20,Wycombe,Northampton,2,1,1.61,3.53,5.10
+2001.11.20,Reading,Tranmere,4,1,1.81,3.37,4.03
+2001.11.21,QPR,Swindon,4,0,1.92,3.32,3.55
+2001.11.24,Tranmere,Cambridge Utd,6,1,1.59,3.70,5.02
+2001.11.24,Oldham,Wycombe,2,0,2.42,3.13,2.68
+2001.11.24,Chesterfield,Bournemouth,2,1,2.38,3.10,2.75
+2001.11.24,Bristol City,Blackpool,2,1,1.85,3.37,3.80
+2001.11.27,Swindon,Wrexham,3,1,1.81,3.40,4.00
+2001.01.12,Wycombe,Brentford,5,3,2.28,3.13,2.85
+2001.01.12,Wrexham,Northampton,3,2,1.99,3.17,3.45
+2001.01.12,Wigan,Swindon,1,0,1.99,3.20,3.43
+2001.01.12,Huddersfield,Cambridge Utd,2,1,1.46,3.80,6.50
+2001.01.12,Cardiff,Oldham,3,1,1.90,3.23,3.77
+2001.01.12,Bristol City,Notts County,3,2,1.63,3.53,4.93
+2001.04.12,Cardiff,Brentford,3,1,2.26,3.10,2.92
+2001.12.15,Tranmere,Port Vale,3,1,1.75,3.40,4.18
+2001.12.15,Stoke City,Wycombe,5,1,1.80,3.33,4.01
+2001.12.15,Northampton,Bournemouth,1,0,2.55,3.07,2.56
+2001.12.15,Colchester,Peterborough,2,1,2.06,3.20,3.38
+2001.12.15,Brentford,Wrexham,3,0,1.48,3.90,6.07
+2001.12.21,Oldham,Port Vale,2,0,1.85,3.33,3.88
+2001.12.21,Notts County,Swindon,3,1,2.40,3.10,2.73
+2001.12.21,Brentford,Northampton,3,0,1.47,3.97,6.00
+2001.12.22,Wycombe,Cambridge Utd,2,0,1.44,4.00,6.43
+2001.12.22,Bristol City,Wrexham,1,0,1.44,4.00,6.17
+2001.12.26,Wrexham,Notts County,2,1,2.23,3.17,2.97
+2001.12.26,Port Vale,Bristol City,1,0,2.85,3.12,2.33
+2001.12.26,Huddersfield,Peterborough,3,1,1.66,3.50,4.57
+2001.12.26,Cambridge Utd,Brentford,2,1,3.33,3.27,1.99
+2001.12.29,Tranmere,Brentford,1,0,2.17,3.20,3.03
+2001.12.29,Swindon,Bury,3,1,2.08,3.20,3.20
+2001.12.29,QPR,Wycombe,4,3,2.08,3.22,3.25
+2001.12.29,Port Vale,Colchester,3,1,2.28,3.13,2.93
+2001.12.29,Chesterfield,Notts County,2,1,2.10,3.20,3.15
+2002.01.01,Stoke City,Blackpool,2,0,1.49,4.00,5.67
+2002.01.01,Reading,Port Vale,2,0,1.56,3.83,5.20
+2002.05.01,Reading,QPR,1,0,1.94,3.23,3.70
+2002.05.01,Colchester,Wrexham,2,1,1.68,3.53,4.60
+2002.08.01,Peterborough,Port Vale,3,0,2.18,3.20,3.00
+2002.12.01,Wigan,Brighton,3,0,2.72,3.05,2.43
+2002.12.01,QPR,Bury,3,0,1.63,3.63,4.97
+2002.12.01,Port Vale,Brentford,2,1,2.65,3.00,2.55
+2002.12.01,Chesterfield,Oldham,4,2,2.53,3.07,2.62
+2002.12.01,Blackpool,Bournemouth,4,3,1.96,3.23,3.62
+2002.01.16,Oldham,Swindon,2,0,1.77,3.40,4.23
+2002.01.19,Reading,Blackpool,3,0,1.53,3.72,5.80
+2002.01.19,Oldham,Wrexham,3,1,1.58,3.70,5.30
+2002.01.19,Brighton,Cambridge Utd,4,3,1.37,4.30,7.00
+2002.01.22,Tranmere,Peterborough,1,0,1.55,3.60,6.50
+2002.01.22,Swindon,Notts County,1,0,1.94,3.30,3.57
+2002.01.22,Port Vale,Oldham,3,2,2.31,3.13,2.83
+2002.01.22,Northampton,Brentford,1,0,2.60,3.12,2.50
+2002.01.22,Huddersfield,Colchester,2,1,1.73,3.43,4.13
+2002.01.22,Cardiff,Stoke City,2,0,2.36,3.17,2.72
+2002.01.22,Cambridge Utd,Wycombe,2,0,2.67,3.13,2.43
+2002.01.24,Brentford,Brighton,4,0,2.35,3.15,2.90
+2002.01.26,Wycombe,Notts County,3,0,1.64,3.47,4.86
+2002.01.26,Reading,Colchester,3,0,1.48,3.77,6.10
+2002.01.26,Huddersfield,QPR,1,0,2.31,3.03,2.92
+2002.01.31,Brighton,Cardiff,1,0,1.93,3.27,3.40
+2002.02.02,Swindon,Northampton,2,1,1.82,3.40,3.80
+2002.02.02,Bournemouth,Stoke City,3,1,2.92,3.17,2.28
+2002.05.02,Bristol City,QPR,2,0,1.89,3.35,3.57
+2002.05.02,Brighton,Tranmere,1,0,1.92,3.35,3.47
+2002.06.02,Stoke City,Cambridge Utd,5,0,1.41,4.17,6.13
+2002.09.02,Wycombe,Bristol City,2,1,2.60,3.02,2.72
+2002.09.02,Wrexham,Wigan,2,0,2.68,2.98,2.63
+2002.09.02,Reading,Notts County,2,1,1.40,4.40,6.87
+2002.09.02,Oldham,Brighton,2,0,2.42,3.17,2.82
+2002.09.02,Huddersfield,Tranmere,2,1,1.99,3.33,3.55
+2002.09.02,Chesterfield,Bury,2,0,1.90,3.43,3.67
+2002.09.02,Cardiff,Swindon,3,0,1.75,3.53,4.30
+2002.09.02,Brentford,Bournemouth,1,0,1.67,3.67,4.60
+2002.11.02,Brighton,Reading,3,1,2.20,3.23,3.00
+2002.12.02,Brentford,Cardiff,2,1,2.18,3.22,3.03
+2002.12.02,Tranmere,Northampton,2,0,1.59,3.70,5.15
+2002.02.16,Wigan,Cardiff,4,0,2.57,3.13,2.55
+2002.02.16,QPR,Wrexham,2,1,1.67,3.67,4.50
+2002.02.16,Port Vale,Chesterfield,4,1,1.90,3.45,3.50
+2002.02.16,Bristol City,Oldham,3,0,1.92,3.37,3.40
+2002.02.16,Brighton,Huddersfield,1,0,1.97,3.37,3.23
+2002.02.19,Northampton,Peterborough,2,1,2.35,3.15,2.95
+2002.02.19,Cardiff,Bury,1,0,1.59,3.65,5.35
+2002.02.23,Reading,Stoke City,1,0,1.85,3.43,3.60
+2002.02.23,Port Vale,QPR,1,0,2.10,3.23,3.13
+2002.02.23,Cardiff,Cambridge Utd,2,0,1.51,3.80,5.47
+2002.02.23,Bury,Bournemouth,2,1,2.10,3.23,3.13
+2002.02.23,Brentford,Notts County,2,1,1.44,4.17,5.83
+2002.02.26,Swindon,Chesterfield,2,1,2.01,3.23,3.28
+2002.02.26,Stoke City,Bury,4,0,1.49,3.77,5.67
+2002.02.26,Oldham,Brentford,3,2,2.10,3.27,3.10
+2002.02.26,Northampton,Port Vale,1,0,2.63,3.13,2.48
+2002.02.26,Bristol City,Peterborough,1,0,1.53,3.67,5.50
+2002.01.03,Stoke City,Brighton,3,1,2.23,3.18,2.93
+2002.02.03,Swindon,Port Vale,3,0,2.50,3.15,2.60
+2002.02.03,QPR,Blackpool,2,0,1.88,3.43,3.57
+2002.02.03,Oldham,Colchester,4,1,1.71,3.57,4.10
+2002.02.03,Notts County,Tranmere,3,0,3.00,3.18,2.20
+2002.05.03,Wigan,Cambridge Utd,4,1,1.49,3.90,6.15
+2002.05.03,Tranmere,Bristol City,1,0,2.38,3.20,2.85
+2002.05.03,Brighton,Wycombe,4,0,1.59,3.70,5.15
+2002.05.03,Brentford,Swindon,2,0,1.59,3.70,5.15
+2002.09.03,Wycombe,Stoke City,1,0,2.93,3.22,2.21
+2002.09.03,Wigan,Oldham,1,0,2.28,3.18,2.80
+2002.09.03,Peterborough,Colchester,3,1,2.15,3.25,3.03
+2002.09.03,Huddersfield,Swindon,2,0,1.70,3.63,4.10
+2002.09.03,Bristol City,Cambridge Utd,2,0,1.41,4.23,6.30
+2002.09.03,Bournemouth,Northampton,5,1,2.29,3.15,2.80
+2002.12.03,Brighton,Northampton,2,0,1.43,4.17,5.97
+2002.03.16,Stoke City,Peterborough,1,0,1.49,3.87,5.50
+2002.03.16,Notts County,Bristol City,2,0,2.55,3.03,2.48
+2002.03.16,Northampton,Wrexham,4,1,2.08,3.27,3.17
+2002.03.16,Colchester,QPR,3,1,2.67,3.15,2.45
+2002.03.16,Brighton,Bury,2,1,1.42,4.20,6.13
+2002.03.16,Brentford,Wycombe,1,0,1.63,3.65,4.60
+2002.03.16,Blackpool,Port Vale,4,0,2.31,3.17,2.82
+2002.03.19,Peterborough,Tranmere,5,0,2.58,3.12,2.67
+2002.03.19,Chesterfield,Bristol City,2,1,2.63,3.13,2.45
+2002.03.22,Cardiff,Wrexham,3,2,1.51,3.77,5.57
+2002.03.23,Stoke City,Chesterfield,1,0,1.54,3.73,5.23
+2002.03.23,QPR,Peterborough,1,0,1.80,3.47,3.90
+2002.03.23,Huddersfield,Northampton,2,0,1.50,3.83,5.33
+2002.03.29,Northampton,Bury,1,0,1.88,3.40,3.55
+2002.03.30,Swindon,Blackpool,1,0,2.07,3.23,3.20
+2002.03.30,Port Vale,Wigan,1,0,2.38,3.07,2.83
+2002.03.30,Peterborough,Wycombe,2,1,2.25,3.22,2.92
+2002.03.30,Notts County,Bournemouth,2,0,1.77,3.48,3.92
+2002.03.30,Brentford,Stoke City,1,0,2.07,3.23,3.20
+2002.01.04,Wycombe,Tranmere,2,1,2.40,3.17,2.72
+2002.01.04,Wigan,Peterborough,2,1,1.85,3.45,3.73
+2002.01.04,Stoke City,Swindon,2,0,1.49,3.93,5.67
+2002.01.04,QPR,Notts County,3,2,1.92,3.42,3.47
+2002.01.04,Cardiff,Port Vale,1,0,1.58,3.75,4.93
+2002.01.04,Bury,Brentford,2,0,3.12,3.25,2.13
+2002.01.04,Brighton,Bristol City,2,1,1.81,3.48,3.83
+2002.01.04,Blackpool,Wrexham,3,0,0,0,0
+2002.02.04,Cambridge Utd,Chesterfield,4,1,2.72,3.17,2.40
+2002.06.04,Wrexham,Cambridge Utd,5,0,1.71,3.67,4.13
+2002.06.04,Oldham,Stoke City,2,1,2.72,3.15,2.40
+2002.06.04,Notts County,Blackpool,1,0,1.71,3.60,4.10
+2002.06.04,Northampton,Wycombe,4,1,1.92,3.43,3.37
+2002.06.04,Bristol City,Bury,2,0,1.53,3.80,5.26
+2002.06.04,Brentford,Huddersfield,3,0,1.98,3.35,3.37
+2002.04.13,Wycombe,Oldham,2,1,2.23,3.22,2.93
+2002.04.13,Wigan,Northampton,3,0,2.18,3.12,2.85
+2002.04.13,Stoke City,Wrexham,1,0,1.26,4.80,7.97
+2002.04.13,Huddersfield,Port Vale,2,1,1.37,4.77,6.17
+2002.04.13,Cardiff,Notts County,2,1,1.51,3.77,5.57
+2002.04.13,Cambridge Utd,Tranmere,2,1,2.88,3.22,2.26
+2002.04.13,Bournemouth,Chesterfield,3,1,2.23,3.18,2.90
+2002.04.13,Blackpool,Bristol City,5,1,3.40,3.60,1.86
+2002.04.20,Wrexham,Bournemouth,2,1,3.10,3.57,1.91
+2002.04.20,Peterborough,Bury,2,1,1.86,3.63,3.17
+2002.04.20,Oldham,QPR,1,0,2.20,3.22,2.95
+2002.04.20,Notts County,Huddersfield,2,1,2.08,3.33,2.97
+2002.04.20,Chesterfield,Blackpool,2,1,2.44,3.15,2.68

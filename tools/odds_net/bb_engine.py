@@ -783,6 +783,7 @@ class Database(Shared):
                     SET %s=? WHERE team=? ''' %record_out, (scaled, i[1]))
         except:
             print 'Scale: error'
+            line =  '==== Scaling error====' + teams
 
     def simulation_filters(self, home, away):
         ''' Loads into variables actual team stats to compare with filters'''
